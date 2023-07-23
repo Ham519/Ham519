@@ -1,4 +1,4 @@
-- Hoy, I’m @Ham519
+- Hoy, I’m @Ham519.
 - hey.
 <!---
 Ham519/Ham519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
